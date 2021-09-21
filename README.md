@@ -21,12 +21,13 @@
 - 🏀 In my free time, I love to play basketball or watch movies/shows OR animes!
 
 <!-- Socials -->
+<!--
 <h2>🌐 Socials</h2>
 
 > Contact me
 
 - Discord: [notbeer#9204](https://discordapp.com/users/606353040336748584/)
-
+-->
 <!-- Profile -->
 <br />
 <details open="open">
