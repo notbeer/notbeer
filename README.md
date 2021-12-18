@@ -1,6 +1,6 @@
 <!-- Introduction -->
 <div align="center">
-  <h2> Hewoo, I'm notbeer <img src="https://cdn.discordapp.com/attachments/887174106393477120/887174292599635978/chika-fujiwara-chika.gif" height="35px"></h2>
+  <h2> Hello, I'm notbeer <img src="https://cdn.discordapp.com/attachments/887174106393477120/887174292599635978/chika-fujiwara-chika.gif" height="35px"></h2>
   </a>
   <br />
 </div>
@@ -21,13 +21,12 @@
 - 🏀 In my free time, I love to play basketball or watch movies/shows OR animes!
 
 <!-- Socials -->
-<!--
 <h2>🌐 Socials</h2>
 
 > Contact me
 
 - Discord: [notbeer#9204](https://discordapp.com/users/606353040336748584/)
--->
+
 <!-- Profile -->
 <br />
 <details open="open">
