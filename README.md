@@ -14,11 +14,11 @@
 <!-- About -->
 <h2>📌 About me</h2>
 
-- 💻 I started programming very recently, so I'm still learning as I go. I'm open to any types of feedbacks!
+- 💻 Learning as I work. I'm open to any types of feedbacks!
 - 🤖 I usually develop random websites, AI's, or random softwares.
 - ⚙️ I'm currently learning to work with different types of web app frameworks and TensorFlow.
 - 📂 I like to contribute to open source projects in any way possible.
-- 🏀 In my free time, I love to play basketball or watch movies/shows OR animes!
+- 🏀 In my free time, I love to play basketball, or watch movies!
 
 <!-- Socials -->
 <h2>🌐 Socials</h2>
