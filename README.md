@@ -18,7 +18,7 @@
 - 🤖 I usually develop random websites, AI's, or random softwares.
 - ⚙️ I'm currently learning to work with different types of web app frameworks and TensorFlow.
 - 📂 I like to contribute to open source projects in any way possible.
-- 🏀 In my free time, I love to play basketball, or watch movies!
+- 🏀 In my free time, I love to play basketball, games, or watch movies!
 
 <!-- Socials -->
 <h2>🌐 Socials</h2>
